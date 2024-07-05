@@ -1,0 +1,54 @@
+.heading {
+    color: red
+}
+
+.heading1 {
+    color: rgb(31, 236, 4);
+    font-style: italic
+}
+
+.text {
+    font-weight: 700;
+    text-decoration: line-through;
+}
+
+.text1 {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.text3 {
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.heading2 {
+    color: red;
+}
+
+.letterSpacing {
+    letter-spacing: 5px;
+    color: brown;
+}
+
+.heading3 {
+    color: brown;
+    font-weight: lighter;
+}
+
+.para1 {
+    color: brown;
+    font-size: xx-small;
+}
+
+.para2 {
+    color: brown;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.anchor {
+    background-color: yellow;
+    color: red;
+    text-decoration: none;
+}
